@@ -153,13 +153,13 @@
 }
 }
 
-@media screen and (max-width: 350px) {
+@media screen and (max-width: 480px) {
   .home__img {
     width: 180px;
     height: 180px;
   }
   .home__title {
-    text-align: center; /* Center align the title */
+    text-align: center; 
     margin: 0 auto; /* Optional: centers the title in case of width constraints */
     font-size: 2.1rem; /* Adjust font size if needed */
   }
